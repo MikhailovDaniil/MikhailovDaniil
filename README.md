@@ -1,7 +1,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailovDaniil&show_icons=true&theme=tokyonight)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MikhailovDaniil&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
