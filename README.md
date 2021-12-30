@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vk.svg" />](https://vk.com/daniilmih)
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/Mail.RU.svg" />
 <!--
 **MikhailovDaniil/MikhailovDaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
