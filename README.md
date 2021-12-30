@@ -7,6 +7,10 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-MikhailovDaniil&color=blueviolet)
 
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
+<i class="programming lang-python"></i>
+
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vk.svg" />](https://vk.com/daniilmih)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/maildotru.svg" />](mailto:d.mih.03@mail.ru)
 
