@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-MikhailovDaniil&color=blueviolet)
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r_32x32.png"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_32x32.png"> 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r_48x48.png">    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_48x48.png">  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_48x48.png"> 
 
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vk.svg" />](https://vk.com/daniilmih)
