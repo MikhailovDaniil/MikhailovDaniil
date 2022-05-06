@@ -10,8 +10,7 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r_48x48.png">    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_48x48.png">  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_48x48.png"> 
 
 
-[<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vk.svg" />](https://vk.com/daniilmih)
-[<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/maildotru.svg" />](mailto:d.mih.03@mail.ru)
+
 
 
 
